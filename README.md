@@ -1,14 +1,40 @@
-# MindMate
-MindMate is an intuitive web application designed to support foreign language learning through artificial intelligence. It adapts to the user’s level and helps improve vocabulary, grammar, and conversational skills on a daily basis.
+## HireHero is a privacy-first web application designed to help job seekers improve their applications and perform confidently in interviews. It uses local large language models (via Ollama) to analyze resumes, generate tailored cover letters, and simulate real-world job interviews — all with personalized feedback.
 
-Key Features:
-📊 Progress tracking with visual analytics
-🤖 Personalized language exercises powered by a local Gemma 3 (7B) LLM via Ollama
-💬 Built-in AI chatbot for real-time speaking practice
-📚 Daily vocabulary, listening, and grammar tasks
-🔐 Privacy-first: offline-capable with locally hosted models
+## 🔑 Core Features:
+📄 Smart Resume Analyzer
+– Upload your resume and get tailored suggestions based on the job you're targeting.
+– AI highlights weak points, missing keywords, and improves clarity and structure.
 
-This project is currently under active development and continuous improvement.
+✉️ Cover Letter & LinkedIn Generator
+– Instantly create professional, personalized cover letters and LinkedIn bios.
+– Adapt the tone to formal, friendly, or neutral depending on your target.
 
-Technologies:
-Next.js (React), TypeScript, Java Spring Boot, Tailwind CSS, OpenAI-compatible LLMs (Gemma 3 via Ollama)
+💬 AI Interview Simulator
+– Practice job interviews with realistic AI-driven questions.
+– Get feedback on your answers: tone, logic, grammar, structure, clarity.
+– Includes behavioral, technical, and situational question sets.
+
+📊 Career Progress Tracker
+– Track your resume edits, interview sessions, and skill growth over time.
+– Receive tailored suggestions to improve your presentation and confidence.
+
+## 🔐 Privacy-First Approach
+– Fully local models (e.g., Gemma 3 or Mistral via Ollama)
+– No external API calls. Your data stays with you.
+– Optional voice-based interviews with Whisper + WebRTC.
+
+## ⚙️ Tech Stack:
+Frontend: Next.js (React), TypeScript, Tailwind CSS
+
+Backend: Java Spring Boot, PostgreSQL
+
+AI: Gemma 3 / Mistral via Ollama (OpenAI-compatible)
+
+Voice: Whisper (optional, local or server-side)
+
+## 🎯 Target Users:
+Junior developers, students, career changers
+
+Non-native speakers preparing for global jobs
+
+Career centers, bootcamps, and recruiters (B2B licensing)
