@@ -11,4 +11,4 @@ Key Features:
 This project is currently under active development and continuous improvement.
 
 Technologies:
-Next.js (React), TypeScript, Java Spring Boot, Tailwind CSS, OpenAI-compatible LLMs (Gemma 3 via Ollama), Google Fit & Apple Health APIs (OAuth)
+Next.js (React), TypeScript, Java Spring Boot, Tailwind CSS, OpenAI-compatible LLMs (Gemma 3 via Ollama)
