@@ -1,4 +1,4 @@
-## HireHero is a privacy-first web application designed to help job seekers improve their applications and perform confidently in interviews. It uses local large language models (via Ollama) to analyze resumes, generate tailored cover letters, and simulate real-world job interviews — all with personalized feedback.
+## HireHero is a privacy-first web application designed to help job seekers improve their applications and perform confidently in interviews. It uses local large language models to analyze resumes, generate tailored cover letters, and simulate real-world job interviews — all with personalized feedback.
 
 ## 🔑 Core Features:
 📄 Smart Resume Analyzer
